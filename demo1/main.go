@@ -8,7 +8,7 @@ func main() {
 	fmt.Printf(a)
 	fmt.Println(a)
 	fmt.Printf("%v", a)
-
-	fmt.Printf("%v", "%v", "%v", a, a, a)
+	fmt.Println("-----------")
+	fmt.Printf("a = %v", "%v", a, a)
 
 }
